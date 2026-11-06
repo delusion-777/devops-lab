@@ -49,3 +49,5 @@
       systemd:
         name: greeting.service
         state: restarted
+
+invalid_yaml: [
